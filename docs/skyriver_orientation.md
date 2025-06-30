@@ -34,7 +34,7 @@ and then you will be asked for password
 
 ## 💻 2. Auto Compute Shell Prompt
 
-1. Termius ([quick start](https://www.techrepublic.com/article/how-to-use-termius-ssh/)) is good for quick SSH session 
+1. Termius ([quick start](https://www.techrepublic.com/article/how-to-use-termius-ssh/){:target="_blank"}) is good for quick SSH session 
 2. VS-Code is awesome with both terminal and IDE 
 
 When you SSH into the cluster or open a terminal:
